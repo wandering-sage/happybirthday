@@ -20,18 +20,8 @@ h1 {
   text-align: center;
   text-transform: uppercase;
 }
-.cnt-container {
-  position: absolute;
-  top: 0;
-  width: 100vw;
-  height: 100vh;
-  background-image: url(/happybirthday/static/media/bg.b00c099b.png);
-  background-position: 50%;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
 .countdown-wrapper {
-  top: 40vh;
+  top: 35vh;
   flex-wrap: wrap;
 }
 .countdown-item,
@@ -64,4 +54,22 @@ h1 {
   width: 100px;
   height: 100px;
 }
-/*# sourceMappingURL=main.93bb7f82.chunk.css.map */
+.cnt-container {
+  position: absolute;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  background-image: url(/happybirthday/static/media/bg.b00c099b.png);
+  background-position: 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.spl-txt {
+  position: relative;
+  top: 50vh;
+  font-size: 1.8em;
+  width: 100%;
+  color: #111;
+  text-align: center;
+}
+/*# sourceMappingURL=main.4858cf96.chunk.css.map */
