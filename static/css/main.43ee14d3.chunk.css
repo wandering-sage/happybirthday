@@ -1,2 +1,131 @@
-@import url(https://fonts.googleapis.com/css?family=Lato);.link{text-decoration:none;color:inherit}body,html{max-width:100%;overflow-x:hidden;margin:0}*{box-sizing:border-box}body{font-family:"Lato",sans-serif}h1{letter-spacing:2px;text-align:center;text-transform:uppercase}.countdown-wrapper{top:35vh;flex-wrap:wrap}.countdown-item,.countdown-wrapper{position:relative;display:flex;align-items:center;justify-content:center}.countdown-item{color:#111;font-size:40px;flex-direction:column;line-height:30px;margin:10px;padding-top:10px;width:100px;height:100px}.countdown-item span{color:#333;font-size:12px;font-weight:600;text-transform:uppercase}.countdown-svg{position:absolute;top:0;left:0;width:100px;height:100px}.cnt-container{position:absolute;top:0;width:100vw;height:100vh;background-image:url(/static/media/bg.b00c099b.png);background-position:50%;background-size:cover;background-repeat:no-repeat}.spl-txt{top:50vh;font-size:1.8em;width:100%;color:#111;text-align:center}.launch,.spl-txt{position:relative}.launch{cursor:pointer;font-size:2em;top:45vh;left:calc(50vw - 50px);padding:5px 10px;border-radius:5px;border:none;background-color:#d6436f;color:#eee}.App{text-align:center}.App-logo{height:40vmin;pointer-events:none;-webkit-animation:App-logo-spin 15s linear infinite;animation:App-logo-spin 15s linear infinite}.App-header{background-color:#282c34;min-height:100vh;display:flex;flex-direction:column;align-items:center;justify-content:center;font-size:calc(10px + 2vmin);color:#fff}.App-link{color:#61dafb}@-webkit-keyframes App-logo-spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}@keyframes App-logo-spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}
+@import url(https://fonts.googleapis.com/css?family=Lato);
+.link {
+  text-decoration: none;
+  color: inherit;
+}
+body,
+html {
+  max-width: 100%;
+  overflow-x: hidden;
+  margin: 0;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: "Lato", sans-serif;
+}
+h1 {
+  letter-spacing: 2px;
+  text-align: center;
+  text-transform: uppercase;
+}
+.countdown-wrapper {
+  top: 35vh;
+  flex-wrap: wrap;
+}
+.countdown-item,
+.countdown-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.countdown-item {
+  color: #111;
+  font-size: 40px;
+  flex-direction: column;
+  line-height: 30px;
+  margin: 10px;
+  padding-top: 10px;
+  width: 100px;
+  height: 100px;
+}
+.countdown-item span {
+  color: #333;
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.countdown-svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100px;
+  height: 100px;
+}
+.cnt-container {
+  position: absolute;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  background-image: url(/happybirthday/static/media/bg.b00c099b.png);
+  background-position: 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.spl-txt {
+  top: 50vh;
+  font-size: 1.8em;
+  width: 100%;
+  color: #111;
+  text-align: center;
+}
+.launch,
+.spl-txt {
+  position: relative;
+}
+.launch {
+  cursor: pointer;
+  font-size: 2em;
+  top: 45vh;
+  left: calc(50vw - 50px);
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: none;
+  background-color: #d6436f;
+  color: #eee;
+}
+.App {
+  text-align: center;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+  -webkit-animation: App-logo-spin 15s linear infinite;
+  animation: App-logo-spin 15s linear infinite;
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #fff;
+}
+.App-link {
+  color: #61dafb;
+}
+@-webkit-keyframes App-logo-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(1turn);
+    transform: rotate(1turn);
+  }
+}
+@keyframes App-logo-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(1turn);
+    transform: rotate(1turn);
+  }
+}
 /*# sourceMappingURL=main.43ee14d3.chunk.css.map */
