@@ -13,7 +13,7 @@ export default function Countdown() {
       {bday > now ? (
         <></>
       ) : (
-        <Link className="link" to="/home">
+        <Link className="link" to="/happybirthday/home">
           <button className="launch">Its Time</button>
         </Link>
       )}
