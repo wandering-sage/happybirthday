@@ -1,0 +1,20 @@
+.w-cont {
+  background-color: #bea68e;
+  width: 100vw;
+  text-align: center;
+  color: rgb(10, 10, 10);
+  font-size: 1.3em;
+  min-height: 100vh;
+}
+
+img.bg {
+  width: 100vw;
+}
+
+.mt20 {
+  margin-top: 20px;
+}
+
+img.gift {
+  width: 70%;
+}
