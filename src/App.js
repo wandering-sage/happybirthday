@@ -6,13 +6,12 @@ import Home from "./pages/home";
 function App() {
   return (
     <>
-      <Countdown />
       <Router>
         <Switch>
           <Route exact path="/">
             <Countdown />
           </Route>
-          <Route path="/happybirthday/home">
+          <Route path="/home">
             <Home />
           </Route>
         </Switch>

@@ -18,3 +18,16 @@
   color: #111;
   text-align: center;
 }
+
+.launch {
+  cursor: pointer;
+  font-size: 2em;
+  position: relative;
+  top: 45vh;
+  left: calc(50vw - 50px);
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: none;
+  background-color: rgb(214, 67, 111);
+  color: #eee;
+}
