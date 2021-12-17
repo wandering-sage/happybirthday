@@ -1,22 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.43ee14d3.chunk.css",
-    "main.js": "/static/js/main.93c1fa69.chunk.js",
-    "main.js.map": "/static/js/main.93c1fa69.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.7e01b309.js",
-    "runtime-main.js.map": "/static/js/runtime-main.7e01b309.js.map",
-    "static/js/2.ba3497d3.chunk.js": "/static/js/2.ba3497d3.chunk.js",
-    "static/js/2.ba3497d3.chunk.js.map": "/static/js/2.ba3497d3.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.43ee14d3.chunk.css.map": "/static/css/main.43ee14d3.chunk.css.map",
-    "static/js/2.ba3497d3.chunk.js.LICENSE.txt": "/static/js/2.ba3497d3.chunk.js.LICENSE.txt",
-    "static/media/countdown.css": "/static/media/bg.b00c099b.png",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "main.css": "/happybirthday/static/css/main.2a6eb48c.chunk.css",
+    "main.js": "/happybirthday/static/js/main.49dcf32b.chunk.js",
+    "main.js.map": "/happybirthday/static/js/main.49dcf32b.chunk.js.map",
+    "runtime-main.js": "/happybirthday/static/js/runtime-main.427b2452.js",
+    "runtime-main.js.map": "/happybirthday/static/js/runtime-main.427b2452.js.map",
+    "static/js/2.ba3497d3.chunk.js": "/happybirthday/static/js/2.ba3497d3.chunk.js",
+    "static/js/2.ba3497d3.chunk.js.map": "/happybirthday/static/js/2.ba3497d3.chunk.js.map",
+    "index.html": "/happybirthday/index.html",
+    "static/css/main.2a6eb48c.chunk.css.map": "/happybirthday/static/css/main.2a6eb48c.chunk.css.map",
+    "static/js/2.ba3497d3.chunk.js.LICENSE.txt": "/happybirthday/static/js/2.ba3497d3.chunk.js.LICENSE.txt",
+    "static/media/countdown.css": "/happybirthday/static/media/bg.b00c099b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7e01b309.js",
+    "static/js/runtime-main.427b2452.js",
     "static/js/2.ba3497d3.chunk.js",
-    "static/css/main.43ee14d3.chunk.css",
-    "static/js/main.93c1fa69.chunk.js"
+    "static/css/main.2a6eb48c.chunk.css",
+    "static/js/main.49dcf32b.chunk.js"
   ]
 }
