@@ -5,16 +5,19 @@ import Home from "./pages/home";
 
 function App() {
   return (
-    <Router>
-      <Switch>
-        <Route exact path="/">
-          <Countdown />
-        </Route>
-        <Route path="/happybirthday/home">
-          <Home />
-        </Route>
-      </Switch>
-    </Router>
+    <>
+      <Countdown />
+      <Router>
+        <Switch>
+          <Route exact path="/">
+            <Countdown />
+          </Route>
+          <Route path="/happybirthday/home">
+            <Home />
+          </Route>
+        </Switch>
+      </Router>
+    </>
   );
 }
 
