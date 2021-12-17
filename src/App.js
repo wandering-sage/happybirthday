@@ -8,10 +8,10 @@ function App() {
     <>
       <Router>
         <Switch>
-          <Route exact path="/">
+          <Route exact path="/happybirthday">
             <Countdown />
           </Route>
-          <Route path="/home">
+          <Route exact path="/happybirthday/home">
             <Home />
           </Route>
         </Switch>
